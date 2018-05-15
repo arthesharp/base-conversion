@@ -69,7 +69,7 @@ namespace base_conversion
                         Console.WriteLine("Value dosnt exist");
                         break;
                 }
-                Console.WriteLine("Para sair digite S maiusculosssssssssssss");
+                Console.WriteLine("Para sair digite S maiusculosssssssssssssssss");
                 sair = Console.ReadLine();
                 Console.Clear();
             }
